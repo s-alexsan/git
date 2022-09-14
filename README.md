@@ -1,13 +1,13 @@
 # PADRÕES UTILIZADOS PARA CRIAR UMA BRANCH OU REALIZAR UM COMMIT 
 **Branch**: Nomes de branches são compostos de 2 partes
  1. type ou categoria do branch. Os types podem ser os seguintes
-    	 - **docs**: apenas mudanças de documentação;
-    	 - **feat**: uma nova funcionalidade;
-    	 - **fix**: a correção de um bug;
-    	 - **perf**: mudança de código focada em melhorar performance;
-    	 - **refactor**: mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;
-    	 - **style**: mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);
-    	 - **test**: adicionar ou corrigir test 
+    	 - **docs**: apenas mudanças de documentação;</br>
+    	 - **feat**: uma nova funcionalidade;</br>
+    	 - **fix**: a correção de um bug;</br>
+    	 - **perf**: mudança de código focada em melhorar performance;</br>
+    	 - **refactor**: mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;</br>
+    	 - **style**: mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);</br>
+    	 - **test**: adicionar ou corrigir test </br>
  2. O que a branch faz em si
 
 **Commit**
