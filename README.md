@@ -1,0 +1,2 @@
+# git
+Padrões de nomeclatura
